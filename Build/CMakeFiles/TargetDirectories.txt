@@ -1,0 +1,4 @@
+/home/pi/embed/client_server_udp-main/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/embed/client_server_udp-main/Build/CMakeFiles/edit_cache.dir
+/home/pi/embed/client_server_udp-main/Build/CMakeFiles/Client.dir
+/home/pi/embed/client_server_udp-main/Build/CMakeFiles/Server.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Client.dir/ud_ucase_cl.c.o  -o Client  -Wl,-Bstatic -ltlpi -Wl,-Bdynamic 
