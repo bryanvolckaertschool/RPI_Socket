@@ -1,0 +1,4 @@
+/home/pi/embed/RPI_Socket/deel1/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/embed/RPI_Socket/deel1/Build/CMakeFiles/edit_cache.dir
+/home/pi/embed/RPI_Socket/deel1/Build/CMakeFiles/Client.dir
+/home/pi/embed/RPI_Socket/deel1/Build/CMakeFiles/Server.dir

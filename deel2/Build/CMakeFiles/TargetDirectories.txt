@@ -1,0 +1,3 @@
+/home/pi/embed/RPI_Socket/deel2/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/embed/RPI_Socket/deel2/Build/CMakeFiles/http_server.dir
+/home/pi/embed/RPI_Socket/deel2/Build/CMakeFiles/edit_cache.dir

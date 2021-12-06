@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/embed/RPI_Socket/deel1/ud_ucase.h
+sys/un.h
+-
+sys/socket.h
+-
+ctype.h
+-
+tlpi_hdr.h
+/home/pi/embed/RPI_Socket/deel1/tlpi_hdr.h
+
+/home/pi/embed/RPI_Socket/deel1/ud_ucase_sv.c
+PJ_RPI.h
+/home/pi/embed/RPI_Socket/deel1/PJ_RPI.h
+stdio.h
+-
+signal.h
+-
+sys/time.h
+-
+time.h
+-
+tlpi_hdr.h
+/home/pi/embed/RPI_Socket/deel1/tlpi_hdr.h
+pthread.h
+-
+ud_ucase.h
+/home/pi/embed/RPI_Socket/deel1/ud_ucase.h
+
